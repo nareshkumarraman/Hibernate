@@ -15,6 +15,8 @@ public class App {
 	
 	public static void main(String[] args) {
 		
+		System.out.println(" =======Main =======");
+		
 		/*Employee em1 = new Employee("Mary Smith", 25);
 		Employee em2 = new Employee("John Aces", 32);
 		Employee em3 = new Employee("Ian Young", 29);*/
