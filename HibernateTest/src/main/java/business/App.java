@@ -20,9 +20,9 @@ public class App {
 		/*Employee em1 = new Employee("Mary Smith", 25);
 		Employee em2 = new Employee("John Aces", 32);
 		Employee em3 = new Employee("Ian Young", 29);*/
-		Employee em1 = new Employee("Mary Smith", 10);
+		Employee em1 = new Employee("Mary Smith", 10,99);
 		
-		System.out.println(" =======CREATE =======");
+		System.out.println(" =======CREATEwe =======");
 		create(em1);
 		/*System.out.println(" =======READ =======");
 		List<Employee> ems1 = read();
